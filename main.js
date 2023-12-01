@@ -58,7 +58,7 @@ class ProductManager {
         } else {
             console.log("Siiiiii, lo encontramos: ", product);
         }
-        return product; 
+        
     }
 
 
